@@ -9,7 +9,7 @@ This repository contains an implementation of Vision Transformers (ViTs) from sc
 - [Overview](#overview)
 - [Implementation Details](#implementation-details)
   - [Setup](#setup)
-  - [Dataset](#dataste)
+  - [Dataset](#dataset)
   - [Image Patching](#image-patching)
   - [Positional Encoding](#positional-encoding)
   - [Transformer Encoder](#transformer-encoder)
